@@ -36,7 +36,6 @@
 
 <p align="center">
 <a href="https://github.com/Oscar-Pellice-Mas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oscar-Pellice-Mas&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oscar-Pellice-Mas&layout=compact&hide=ShaderLab&langs_count=8&theme=algolia"/>
 </a>
 </p>
@@ -49,6 +48,5 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
+Last Edited on: 07/06/2022
