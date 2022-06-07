@@ -9,6 +9,19 @@
 🌱 &nbsp;I'm on track for learning more about Videogame programming, Game Design, and AAA games creation.\
 ✉️ &nbsp;You can shoot me an email at oscarpellicemas@gmail.com! I'll try to respond as soon as I can.\
 
+### 🛠 &nbsp;Project
+
+<h3>Planext</h3>
+<a href="https://jroig24.itch.io/planext">Planext -Itch.io</a>
+<p>A project for a gamejam with limitations. Contribuited as one of the main programmers.</p>
+<p>The game has the ultimate goal to make humankind survive as long as you can. Every day counts. The lack of resources will reduce human population.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58166158/172456334-edd71ee0-6cde-4383-bf10-06d9a048ae92.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/172455261-18e2e9f9-a798-4dff-9d5f-961990acffd4.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/172456373-5d3a78af-24fb-45cb-b374-b613b2cb3bde.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/172456383-4ae81180-e5fb-45bb-bb37-05eac9cc38f2.png" width="350">
+</p>
+  
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -33,6 +46,7 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 
 <p align="center">
 <a href="https://github.com/Oscar-Pellice-Mas">
