@@ -21,35 +21,54 @@
 <img src="https://user-images.githubusercontent.com/58166158/172456373-5d3a78af-24fb-45cb-b374-b613b2cb3bde.png" width="350">
 <img src="https://user-images.githubusercontent.com/58166158/172456383-4ae81180-e5fb-45bb-bb37-05eac9cc38f2.png" width="350">
 </p>
-  
+
+<h3>Shadow racers</h3>
+<p>A university project. Contribuited as programmer, team lead and game designer on a team of 5 classmates.</p>
+<p>The game has the mechanics of racing each new lap with AI controlled alies and enemies that imitate the previous lap moves of the players.</p>
+
+<h3>Europa projects</h3>
+<p>A project on NTT Data where diferent websites were due.</p>
+<p>The European comission requested three diferent websites for its needs. I worked with the team on the functional and technical analysis.</p>
+
+<h3>QA Analytics</h3>
+<p>A project on NTT Data for internal use done with a partner.</p>
+<p>The tool was designed to extract analytics on webpages and export them on tools like amazon or google analytics.</p>
+
 ### 🛠 &nbsp;Tech Stack
-<p>Languages</p>
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=276DC3)\
-<p>Frameworks</p>
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<p>Tools</p>
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android&logoColor=2C2255)\
-<p>Extras</p>
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+<p align="center">Languages</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="30">
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" height="30">
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" height="30">
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="30">
+  <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="30">
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=276DC3" height="30">
+</p>
+<p align="center">Frameworks</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="30">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" height="30">
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" height="30">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" height="30">
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" height="30">
+</p>
+<p align="center">Tools</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="30">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="30">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" height="30">
+  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="30">
+  <img src="https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android&logoColor=2C2255" height="30">
+</p>
+<p align="center">Extras</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" height="30">
+  <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" height="30">
+  <img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign" height="30">
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 
 <p align="center">
 <a href="https://github.com/Oscar-Pellice-Mas">
