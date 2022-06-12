@@ -12,6 +12,11 @@
 ### 🛠 &nbsp;Project
 
 <h3>Planext</h3>
+<div>
+  <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
+  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+</div>
 <a href="https://jroig24.itch.io/planext">Planext -Itch.io</a>
 <p>A project for a gamejam with rules and limitations. Contribuited as one of the main programmers.</p>
 <p>The game has the ultimate goal to make humankind survive as long as you can. Every day counts. The lack of resources will reduce human population.</p>
@@ -23,14 +28,33 @@
 </p>
 
 <h3>Shadow racers</h3>
+<div>
+  <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
+  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+</div>
 <p>A university project. Contribuited as programmer, team lead and game designer on a team of 5 classmates.</p>
 <p>The game has the mechanics of racing each new lap with AI controlled alies and enemies that imitate the previous lap moves of the players.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58166158/173231001-348ccdc6-1959-43d0-8a2b-15a0efedd535.jpg" width="350">
+</p>
 
 <h3>Europa projects</h3>
+<div>
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=276DC3" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+</div>
 <p>A project on NTT Data where diferent websites were due.</p>
 <p>The European comission requested three diferent websites for its needs. I worked with the team on the functional and technical analysis.</p>
 
 <h3>QA Analytics</h3>
+<div>
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=276DC3" height="20">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="20">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" height="20">
+</div>
 <p>A project on NTT Data for internal use done with a partner.</p>
 <p>The tool was designed to extract analytics on webpages and export them on tools like amazon or google analytics.</p>
 
