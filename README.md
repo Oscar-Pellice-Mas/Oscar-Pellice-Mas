@@ -9,8 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Videogame programming, Game Design, and AAA games creation.\
 ✉️ &nbsp;You can shoot me an email at oscarpellicemas@gmail.com! I'll try to respond as soon as I can.\
 
-### 🛠 &nbsp;Project
-
+<h2>🛠 &nbsp; Projects </h2>
 <h3>Planext</h3>
 <div>
   <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
@@ -18,7 +17,8 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
 <a href="https://jroig24.itch.io/planext">Planext -Itch.io</a>
-<p>A project for a gamejam with rules and limitations. Contribuited as one of the main programmers.</p>
+<p>A project done by a small group for a game jam with limitations on controls and gameplay style.</p>
+<p>I participated by working as one of the main programmers, developing the gameplay mechanics.</p>
 <p>The game has the ultimate goal to make humankind survive as long as you can. Every day counts. The lack of resources will reduce human population.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58166158/172456334-edd71ee0-6cde-4383-bf10-06d9a048ae92.png" width="350">
@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
-<p>A university project. Contribuited as programmer, team lead and game designer on a team of 5 classmates.</p>
-<p>The game has the mechanics of racing each new lap with AI controlled alies and enemies that imitate the previous lap moves of the players.</p>
+<p>This is a university project. I have contribuited as programmer, team lead and game designer on a team of 5 classmates.</p>
+<p>This is a race game where each new lap, AI controlled alies and enemies join the race imitating the previous lap moves of each players. By the last round, diferent clones of each player are racing along.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58166158/173231001-348ccdc6-1959-43d0-8a2b-15a0efedd535.jpg" width="350">
 </p>
@@ -58,7 +58,8 @@
 <p>A project on NTT Data for internal use done with a partner.</p>
 <p>The tool was designed to extract analytics on webpages and export them on tools like amazon or google analytics.</p>
 
-### 🛠 &nbsp;Tech Stack
+
+<h2>🛠 &nbsp;Tech Stack </h2>
 <p align="center">Languages</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30">
@@ -92,7 +93,7 @@
   <img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign" height="30">
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/Oscar-Pellice-Mas">
@@ -100,7 +101,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h2>🤝🏻 &nbsp;Connect with Me</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/oscar-pellice-mas"><img src="https://img.shields.io/badge/-Oscar%20Pellice%20Mas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
