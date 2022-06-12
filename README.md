@@ -10,6 +10,17 @@
 ✉️ &nbsp;You can shoot me an email at oscarpellicemas@gmail.com! I'll try to respond as soon as I can.\
 
 <h2>🛠 &nbsp; Projects </h2>
+
+<h3>EnhanceD&D</h3>
+<div>
+  <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
+  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+</div>
+<p>The Final project of my computer engineer career, work in progress.</p>
+<p>This project is a tool to play roleplay games online such as Dungeons&Dragons.</p>
+<p>It's a online tools with easy to use gameplay, character creation, action automation and full control of the game by the master.</p>
+
 <h3>Planext</h3>
 <div>
   <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
@@ -90,7 +101,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" height="30">
   <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" height="30">
-  <img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign" height="30">
+  <img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel" height="30">
 </p>
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
