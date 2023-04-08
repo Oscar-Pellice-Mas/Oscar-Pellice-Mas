@@ -21,6 +21,23 @@
 <p>This project is a tool to play roleplay games online such as Dungeons&Dragons.</p>
 <p>It's a online tools with easy to use gameplay, character creation, action automation and full control of the game by the master.</p>
 
+<h3>Nuts&Guns</h3>
+<div>
+  <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
+  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+</div>
+<a href="https://wew-devs.itch.io/nutsguns">Nuts&Guns -Itch.io</a>
+<p>A project done by a small group for a game jam with limitations on theme.</p>
+<p>I participated by working as one of the main programmers, developing the gameplay mechanics.</p>
+<p>It's a tree themed tower defense with a 2D pixel art style, where the player is trying to defend the fruits from the evil insects. Includes a root-themed skill system and multiple charismatic NPC’s. Developed for the Global Game Jam 2023.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58166158/230730362-82fc0c29-3790-4bcb-9635-0be2f2acfc8e.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/230730431-b2b29111-1220-479e-8789-b9d1f5e7aa46.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/230730373-6a345fe8-a223-4a56-a4b1-41362b453970.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/230730384-a0a93522-099f-4821-8158-24bff26f6307.png" width="350">
+</p>
+
 <h3>Planext</h3>
 <div>
   <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
