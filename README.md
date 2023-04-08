@@ -19,7 +19,7 @@
 </div>
 <p>The Final project of my computer engineer career, work in progress.</p>
 <p>This project is a tool to play roleplay games online such as Dungeons&Dragons.</p>
-<p>It's a online tools with easy to use gameplay, character creation, action automation and full control of the game by the master.</p>
+<p>It's a online tools with easy to use gameplay, character creation, action automation and full control of the game by the narrator.</p>
 
 <h3>Nuts&Guns</h3>
 <div>
