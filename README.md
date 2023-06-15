@@ -7,7 +7,7 @@
 💡 &nbsp;I like to develop games and program software.\
 🎓 &nbsp;I'm currently studying Computer Science at the LaSalle Barcelona.\
 🌱 &nbsp;I'm on track for learning more about Videogame programming, Game Design, and AAA games creation.\
-✉️ &nbsp;You can shoot me an email at oscarpellicemas@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can send me an email at oscarpellicemas@gmail.com! I'll try to respond as soon as I can.\
 
 <h2>🛠 &nbsp; Projects </h2>
 
