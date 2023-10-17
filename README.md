@@ -24,7 +24,7 @@
 <img src="![Capture 1](https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/730bc1b8-615f-451a-8666-205dc937ba9b)" width="350">
 <img src="![6](https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/774cd7d7-9ba3-418a-bb8f-93ee4fb5c455)" width="350">
 <img src="![game3](https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/d2b43499-9181-4b2c-b8b4-37f9d2eafa0f)" width="350">
-<img src="![15](https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/f500dcbe-18a6-45a1-ac4c-d36ada22077d)" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/f500dcbe-18a6-45a1-ac4c-d36ada22077d.png" width="350">
 </p>
 
 <h3>Nuts&Guns</h3>
