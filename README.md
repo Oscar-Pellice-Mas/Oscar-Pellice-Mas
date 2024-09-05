@@ -11,7 +11,14 @@
 
 <h2>🛠 &nbsp; Projects </h2>
 
-<h3>Helheim Engine</h3> <div> <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20"> <img src="https://img.shields.io/badge/-SDL2-05122A?style=flat&logo=SDL" height="20"> <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20"> </div> <a href="https://github.com/RollingBarrel/Helheim-Engine">Helheim Engine - GitHub</a> <p>The Helheim Engine is a custom game engine developed for 3D action games. It was created as part of a collaborative project where I contributed to designing and implementing core engine features.</p> <p>It is built using C++ and SDL2, focusing on performance and flexibility. The engine provides tools for efficient rendering, physics, and asset management.</p> <p>Key features include a modular design for ease of extensibility, real-time rendering optimizations, and custom scene management for smooth gameplay experiences. The project demonstrates expertise in engine architecture and optimization for game development.</p> 
+<h3>Helheim Engine</h3> 
+<div> 
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20"> 
+  <img src="https://img.shields.io/badge/-SDL2-05122A?style=flat&logo=SDL" height="20"> 
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20"> 
+</div> 
+<a href="https://github.com/RollingBarrel/Helheim-Engine">Helheim Engine - GitHub</a> 
+<p>The Helheim Engine is a custom game engine developed as the final project for our master’s degree, built to support 3D action games. The entire cohort collaborated on this project, where I took on dual roles: programmer and producer.</p> <p>As the producer, I was responsible for managing the team and overseeing all aspects of the work, ensuring that the project was on track and met the deadlines. I also handled task distribution, managed communication, and coordinated pull requests on GitHub, where I contributed as a code reviewer.</p> <p>From a technical perspective, I developed the save-load functionalities for scenes and game objects, allowing seamless game state management. I also played a key role in the engine's UI system, working on components such as images, Transform2D, canvas, sliders, buttons, events, and text rendering.</p> <p>In addition, I implemented the entire in-game UI and all related menus. I worked on gameplay features, including managing the player manager, game manager, and player state machine. I was also heavily involved in bug testing, where I contributed to identifying and solving gameplay issues during playtesting.</p>
 
 <h3>EnhanceD&D</h3>
 <div>
@@ -27,23 +34,6 @@
 <img src="https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/774cd7d7-9ba3-418a-bb8f-93ee4fb5c455" width="350">
 <img src="https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/d2b43499-9181-4b2c-b8b4-37f9d2eafa0f" width="350">
 <img src="https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/f500dcbe-18a6-45a1-ac4c-d36ada22077d.png" width="350">
-</p>
-
-<h3>Nuts&Guns</h3>
-<div>
-  <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
-  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
-</div>
-<a href="https://wew-devs.itch.io/nutsguns">Nuts&Guns -Itch.io</a>
-<p>This 2D pixel art tower defense game was created for the Global Game Jam 2023.</p>
-<p>I contributed as a lead programmer, developing gameplay mechanics.</p>
-<p>Players defend their tree’s fruits from insects, with a unique root-themed skill system and engaging NPCs.</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/58166158/230730362-82fc0c29-3790-4bcb-9635-0be2f2acfc8e.png" width="350">
-<img src="https://user-images.githubusercontent.com/58166158/230730431-b2b29111-1220-479e-8789-b9d1f5e7aa46.png" width="350">
-<img src="https://user-images.githubusercontent.com/58166158/230730373-6a345fe8-a223-4a56-a4b1-41362b453970.png" width="350">
-<img src="https://user-images.githubusercontent.com/58166158/230730384-a0a93522-099f-4821-8158-24bff26f6307.png" width="350">
 </p>
 
 <h3>Planext</h3>
@@ -63,16 +53,22 @@
 <img src="https://user-images.githubusercontent.com/58166158/172456383-4ae81180-e5fb-45bb-bb37-05eac9cc38f2.png" width="350">
 </p>
 
-<h3>Shadow racers</h3>
+
+<h3>Nuts&Guns</h3>
 <div>
   <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
   <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
-<p>In this university project, I contributed as the lead programmer, game designer, and team lead.</p>
-<p>Shadow Racers is a unique racing game where AI clones of players imitate previous lap moves, creating intense races as the game progresses.</p>
+<a href="https://wew-devs.itch.io/nutsguns">Nuts&Guns -Itch.io</a>
+<p>This 2D pixel art tower defense game was created for the Global Game Jam 2023.</p>
+<p>I contributed as a lead programmer, developing gameplay mechanics.</p>
+<p>Players defend their tree’s fruits from insects, with a unique root-themed skill system and engaging NPCs.</p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58166158/173231001-348ccdc6-1959-43d0-8a2b-15a0efedd535.jpg" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/230730362-82fc0c29-3790-4bcb-9635-0be2f2acfc8e.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/230730431-b2b29111-1220-479e-8789-b9d1f5e7aa46.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/230730373-6a345fe8-a223-4a56-a4b1-41362b453970.png" width="350">
+<img src="https://user-images.githubusercontent.com/58166158/230730384-a0a93522-099f-4821-8158-24bff26f6307.png" width="350">
 </p>
 
 <h3>Europa projects</h3>
@@ -93,6 +89,19 @@
 </div>
 <p>This internal tool was developed for NTT Data to gather and analyze webpage analytics. </p>
 <p>It was designed to export data to platforms such as Google Analytics and Amazon, streamlining data-driven decision-making.</p>
+
+<h3>Shadow racers</h3>
+<div>
+  <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
+  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
+</div>
+<p>In this university project, I contributed as the lead programmer, game designer, and team lead.</p>
+<p>Shadow Racers is a unique racing game where AI clones of players imitate previous lap moves, creating intense races as the game progresses.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58166158/173231001-348ccdc6-1959-43d0-8a2b-15a0efedd535.jpg" width="350">
+</p>
+
 
 
 <h2>🛠 &nbsp;Tech Stack </h2>
