@@ -18,7 +18,17 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20"> 
 </div> 
 <a href="https://github.com/RollingBarrel/Helheim-Engine">Helheim Engine - GitHub</a> 
-<p>The Helheim Engine is a custom game engine developed as the final project for our master’s degree, built to support 3D action games. The entire cohort collaborated on this project, where I took on dual roles: programmer and producer.</p> <p>As the producer, I was responsible for managing the team and overseeing all aspects of the work, ensuring that the project was on track and met the deadlines. I also handled task distribution, managed communication, and coordinated pull requests on GitHub, where I contributed as a code reviewer.</p> <p>From a technical perspective, I developed the save-load functionalities for scenes and game objects, allowing seamless game state management. I also played a key role in the engine's UI system, working on components such as images, Transform2D, canvas, sliders, buttons, events, and text rendering.</p> <p>In addition, I implemented the entire in-game UI and all related menus. I worked on gameplay features, including managing the player manager, game manager, and player state machine. I was also heavily involved in bug testing, where I contributed to identifying and solving gameplay issues during playtesting.</p>
+<p>The Helheim Engine is a WIP custom game engine developed as the final project for our master’s degree, built to support 3D action games. The entire cohort collaborated on this project, where I took on dual roles: programmer and producer.</p> 
+<p>As the producer, I was responsible for managing the team and overseeing all aspects of the work, ensuring that the project was on track and met the deadlines. I also handled task distribution, managed communication, and coordinated pull requests on GitHub, where I contributed as a code reviewer.</p> 
+
+![Game 3](https://github.com/user-attachments/assets/db3534c3-6d2a-453f-a237-e7ae9cd6a1d2)
+![Game 2](https://github.com/user-attachments/assets/df3bd509-e2f5-4451-b149-8e087bd0ad87)
+![Game 1](https://github.com/user-attachments/assets/3bac7b51-2008-4cae-89cd-e8a14a47965a)
+![Game 4](https://github.com/user-attachments/assets/fac01988-4d1c-4ee0-9910-1bec637afa09)
+
+
+<p>From a technical perspective, I developed the save-load functionalities for scenes and game objects, allowing seamless game state management. I also played a key role in the engine's UI system, working on components such as images, Transform2D, canvas, sliders, buttons, events, and text rendering.</p> 
+<p>In addition, I implemented the entire in-game UI and all related menus. I worked on gameplay features, including managing the player manager, game manager, and player state machine. I was also heavily involved in bug testing, where I contributed to identifying and solving gameplay issues during playtesting.</p>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/751b4a08-2f21-4623-bca5-8bb3809d403f" width="500">
