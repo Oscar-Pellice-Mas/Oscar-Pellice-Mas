@@ -11,6 +11,8 @@
 
 <h2>🛠 &nbsp; Projects </h2>
 
+<h3>Helheim Engine</h3> <div> <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20"> <img src="https://img.shields.io/badge/-SDL2-05122A?style=flat&logo=SDL" height="20"> <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20"> </div> <a href="https://github.com/RollingBarrel/Helheim-Engine">Helheim Engine - GitHub</a> <p>The Helheim Engine is a custom game engine developed for 3D action games. It was created as part of a collaborative project where I contributed to designing and implementing core engine features.</p> <p>It is built using C++ and SDL2, focusing on performance and flexibility. The engine provides tools for efficient rendering, physics, and asset management.</p> <p>Key features include a modular design for ease of extensibility, real-time rendering optimizations, and custom scene management for smooth gameplay experiences. The project demonstrates expertise in engine architecture and optimization for game development.</p> 
+
 <h3>EnhanceD&D</h3>
 <div>
   <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
