@@ -4,10 +4,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to develop games and program software.\
-🎓 &nbsp;I'm currently cursing a master on AAA Game Development at UPC Barcelona.\
-🌱 &nbsp;I'm on track for learning more about Videogame programming, Game Design, and AAA games creation.\
-✉️ &nbsp;You can send me an email at oscarpellicemas@gmail.com! I'll try to respond as soon as I can.
+💡 &nbsp;I'm passionate about game development and software programming.\
+🎓 &nbsp;Currently pursuing a Master's in AAA Game Development at UPC Barcelona.\
+🌱 &nbsp;I'm focused on deepening my knowledge in video game programming, game design, and creating high-quality AAA games.\
+✉️ &nbsp;Feel free to reach out to me at oscarpellicemas@gmail.com – I'll get back to you as soon as possible!
 
 <h2>🛠 &nbsp; Projects </h2>
 
@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
-<p>The Final project of my computer engineer career.</p>
-<p>This project is a tool to play roleplay games online such as Dungeons&Dragons.</p>
-<p>It's a online tools with easy to use gameplay, character creation, action automation and full control of the game by the narrator.</p>
+<p>Final project of my computer engineering degree.</p>
+<p>EnhanceD&D is an online tool for playing role-playing games such as Dungeons & Dragons.</p>
+<p>It offers intuitive gameplay, automated character creation, action handling, and complete control for the narrator.</p>
 <p align="center">
 <img src="https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/fd6644aa-8a32-430e-a4be-d99f7b0f37ae" width="350">
 <img src="https://github.com/Oscar-Pellice-Mas/Oscar-Pellice-Mas/assets/58166158/774cd7d7-9ba3-418a-bb8f-93ee4fb5c455" width="350">
@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
 <a href="https://wew-devs.itch.io/nutsguns">Nuts&Guns -Itch.io</a>
-<p>A project done by a small group for a game jam with limitations on theme.</p>
-<p>I participated by working as one of the main programmers, developing the gameplay mechanics.</p>
-<p>It's a tree themed tower defense with a 2D pixel art style, where the player is trying to defend the fruits from the evil insects. Includes a root-themed skill system and multiple charismatic NPC’s. Developed for the Global Game Jam 2023.</p>
+<p>This 2D pixel art tower defense game was created for the Global Game Jam 2023.</p>
+<p>I contributed as a lead programmer, developing gameplay mechanics.</p>
+<p>Players defend their tree’s fruits from insects, with a unique root-themed skill system and engaging NPCs.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58166158/230730362-82fc0c29-3790-4bcb-9635-0be2f2acfc8e.png" width="350">
 <img src="https://user-images.githubusercontent.com/58166158/230730431-b2b29111-1220-479e-8789-b9d1f5e7aa46.png" width="350">
@@ -51,9 +51,9 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
 <a href="https://jroig24.itch.io/planext">Planext -Itch.io</a>
-<p>A project done by a small group for a game jam with limitations on controls and gameplay style.</p>
-<p>I participated by working as one of the main programmers, developing the gameplay mechanics.</p>
-<p>The game has the ultimate goal to make humankind survive as long as you can. Every day counts. The lack of resources will reduce human population.</p>
+<p>A strategic game developed during a game jam where I led the gameplay mechanics development.</p>
+<p>The goal is to help humankind survive as long as possible by managing dwindling resources.</p>
+<p>Each day brings new challenges and risks.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58166158/172456334-edd71ee0-6cde-4383-bf10-06d9a048ae92.png" width="350">
 <img src="https://user-images.githubusercontent.com/58166158/172455261-18e2e9f9-a798-4dff-9d5f-961990acffd4.png" width="350">
@@ -67,8 +67,8 @@
   <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity" height="20">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
-<p>This is a university project. I have contribuited as programmer, team lead and game designer on a team of 5 classmates.</p>
-<p>This is a race game where each new lap, AI controlled alies and enemies join the race imitating the previous lap moves of each players. By the last round, diferent clones of each player are racing along.</p>
+<p>In this university project, I contributed as the lead programmer, game designer, and team lead.</p>
+<p>Shadow Racers is a unique racing game where AI clones of players imitate previous lap moves, creating intense races as the game progresses.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/58166158/173231001-348ccdc6-1959-43d0-8a2b-15a0efedd535.jpg" width="350">
 </p>
@@ -78,8 +78,8 @@
   <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=276DC3" height="20">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20">
 </div>
-<p>A project on NTT Data where diferent websites were due.</p>
-<p>The European comission requested three diferent websites for its needs. I worked with the team on the functional and technical analysis.</p>
+<p>During my time at NTT Data, I worked on multiple websites for the European Commission, contributing to both functional and technical analysis. </p>
+<p>These projects involved coordinating with various stakeholders to meet specific requirements.</p>
 
 <h3>QA Analytics</h3>
 <div>
@@ -89,8 +89,8 @@
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="20">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" height="20">
 </div>
-<p>A project on NTT Data for internal use done with a partner.</p>
-<p>The tool was designed to extract analytics on webpages and export them on tools like amazon or google analytics.</p>
+<p>This internal tool was developed for NTT Data to gather and analyze webpage analytics. </p>
+<p>It was designed to export data to platforms such as Google Analytics and Amazon, streamlining data-driven decision-making.</p>
 
 
 <h2>🛠 &nbsp;Tech Stack </h2>
