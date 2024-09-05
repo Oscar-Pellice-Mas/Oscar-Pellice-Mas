@@ -20,6 +20,11 @@
 <a href="https://github.com/RollingBarrel/Helheim-Engine">Helheim Engine - GitHub</a> 
 <p>The Helheim Engine is a custom game engine developed as the final project for our master’s degree, built to support 3D action games. The entire cohort collaborated on this project, where I took on dual roles: programmer and producer.</p> <p>As the producer, I was responsible for managing the team and overseeing all aspects of the work, ensuring that the project was on track and met the deadlines. I also handled task distribution, managed communication, and coordinated pull requests on GitHub, where I contributed as a code reviewer.</p> <p>From a technical perspective, I developed the save-load functionalities for scenes and game objects, allowing seamless game state management. I also played a key role in the engine's UI system, working on components such as images, Transform2D, canvas, sliders, buttons, events, and text rendering.</p> <p>In addition, I implemented the entire in-game UI and all related menus. I worked on gameplay features, including managing the player manager, game manager, and player state machine. I was also heavily involved in bug testing, where I contributed to identifying and solving gameplay issues during playtesting.</p>
 
+![Engine 4](https://github.com/user-attachments/assets/751b4a08-2f21-4623-bca5-8bb3809d403f)
+![Engine 3](https://github.com/user-attachments/assets/94d4ca5d-cdc7-4c1b-8b96-714a4a1e534a)
+![Engine 2](https://github.com/user-attachments/assets/8dba2746-25eb-4c11-9464-3da018a4e899)
+![Engine 1](https://github.com/user-attachments/assets/cff62abe-eb6e-4f95-855b-141bf5ce12ba)
+
 <h3>EnhanceD&D</h3>
 <div>
   <img src="https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" height="20">
