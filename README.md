@@ -22,10 +22,10 @@
 <p>As the producer, I was responsible for managing the team and overseeing all aspects of the work, ensuring that the project was on track and met the deadlines. I also handled task distribution, managed communication, and coordinated pull requests on GitHub, where I contributed as a code reviewer.</p> 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/db3534c3-6d2a-453f-a237-e7ae9cd6a1d2" width="350">
-<img src="https://github.com/user-attachments/assets/df3bd509-e2f5-4451-b149-8e087bd0ad87" width="350">
-<img src="https://github.com/user-attachments/assets/3bac7b51-2008-4cae-89cd-e8a14a47965a" width="350">
-<img src="https://github.com/user-attachments/assets/fac01988-4d1c-4ee0-9910-1bec637afa09" width="350">
+<img src="https://github.com/user-attachments/assets/db3534c3-6d2a-453f-a237-e7ae9cd6a1d2" width="400">
+<img src="https://github.com/user-attachments/assets/df3bd509-e2f5-4451-b149-8e087bd0ad87" width="400">
+<img src="https://github.com/user-attachments/assets/3bac7b51-2008-4cae-89cd-e8a14a47965a" width="400">
+<img src="https://github.com/user-attachments/assets/fac01988-4d1c-4ee0-9910-1bec637afa09" width="400">
 </p>
 
 <p>From a technical perspective, I developed the save-load functionalities for scenes and game objects, allowing seamless game state management. I also played a key role in the engine's UI system, working on components such as images, Transform2D, canvas, sliders, buttons, events, and text rendering.</p> 
