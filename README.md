@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" height="20"> 
 </div> 
 <a href="https://github.com/RollingBarrel/Helheim-Engine">Helheim Engine - GitHub</a> 
-<p>The Helheim Engine is a WIP custom game engine developed as the final project for our master’s degree, built to support 3D action games. The entire cohort collaborated on this project, where I took on dual roles: programmer and producer.</p> 
+<p>The Helheim Engine is a WIP custom game engine developed as the final project for our master’s degree, built to support 3D action games. The entire master collaborated on this project, where I took on dual roles: lead programmer and producer.</p> 
 <p>As the producer, I was responsible for managing the team and overseeing all aspects of the work, ensuring that the project was on track and met the deadlines. I also handled task distribution, managed communication, and coordinated pull requests on GitHub, where I contributed as a code reviewer.</p> 
 
 <p align="center">
