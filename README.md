@@ -1,5 +1,5 @@
 <h2>Hey there! I'm Oscar</h2>
-<a href="https://oscar-pellice-mas.github.io">My porfolio"<a/>
+<a href="https://oscar-pellice-mas.github.io">My porfolio<a/>
 <!-- ## 👋 &nbsp;Hey there! I'm Oscar -->
 
 ### 👨🏻‍💻 &nbsp;About Me
